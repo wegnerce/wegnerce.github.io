@@ -1,0 +1,13 @@
+.navbar {
+   background-image: url('pattern_nav2.gif');
+   background-repeat: repeat;
+ }
+.navbar-default .navbar-nav>.active> a, 
+.navbar-default .navbar-nav>.active> a:focus, 
+.navbar-default .navbar-nav>.active> a:hover {
+   background-color: rgba(0,0,0,0);
+}
+
+.well {
+    background-color: #e6e6e6 !important;
+}

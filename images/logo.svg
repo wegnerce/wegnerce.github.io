@@ -15,11 +15,11 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/calle/Work/Teaching_Uni/WS201617/MEES.Ö15 Mikrobielle Diversität Ökosystemfunktion/methods_7.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-filename="/media/calle/CEW_I/pelican/exploring_microbes/content/images/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <marker
@@ -6021,14 +6021,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25052744"
-     inkscape:cx="-2974.2117"
-     inkscape:cy="-7734.766"
+     inkscape:zoom="0.48824548"
+     inkscape:cx="-2703.6967"
+     inkscape:cy="-7812.9478"
      inkscape:document-units="px"
-     inkscape:current-layer="g1832"
+     inkscape:current-layer="g5806"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -6107,17 +6107,17 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-890.35718"
+         x="-812.85718"
          y="4268.8408"
          id="text5251-2"><tspan
            sodipodi:role="line"
            id="tspan5253-8"
-           x="-890.35718"
+           x="-812.85718"
            y="4268.8408"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:284.04992676px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff9955;fill-opacity:1">MICROBES</tspan></text>
       <g
          id="g5850"
-         transform="matrix(1.3333334,0,0,1.3333334,-1459.9917,3840.9766)"
+         transform="matrix(1.3333334,0,0,1.3333334,-1474.9917,3725.9766)"
          style="fill:#666666">
         <g
            id="g5804"
@@ -6129,13 +6129,13 @@
                id="path5808"
                d="m 464.01104,406.87023 -111.315,-111.324 c -16.586,25.795 -38.536,47.734 -64.331,64.321 l 111.324,111.324 c 17.772,17.768 46.587,17.768 64.321,0 17.773,-17.739 17.773,-46.554 10e-4,-64.321 z"
                inkscape:connector-curvature="0"
-               style="fill:#666666" />
+               style="fill:#999999" />
             <path
                id="path5810"
-               d="M 363.909,181.955 C 363.909,81.473 282.44,0 181.956,0 81.474,0 10e-4,81.473 10e-4,181.955 c 0,100.482 81.473,181.951 181.955,181.951 100.484,0 181.953,-81.469 181.953,-181.951 z M 181.956,334.416 c -75.252,0 -152.464999,-77.208 -152.464999,-152.46 0,-75.252 77.212999,-152.464999 152.464999,-152.464999 75.25,0 152.468,77.212999 152.468,152.464999 0,75.252 -77.218,152.46 -152.468,152.46 z"
+               d="M 363.909,181.955 C 363.909,81.473 282.44,0 181.956,0 81.474,0 0.001,81.473 0.001,181.955 c 0,100.482 81.473,181.951 181.955,181.951 100.484,0 181.953,-81.469 181.953,-181.951 z M 181.956,334.416 c -75.252,0 -152.464999,-77.208 -152.464999,-152.46 0,-75.252 77.212999,-152.464999 152.464999,-152.464999 75.25,0 152.468,77.212999 152.468,152.464999 0,75.252 -77.218,152.46 -152.468,152.46 z"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="ssssssssss"
-               style="fill:#666666" />
+               style="fill:#999999" />
           </g>
         </g>
         <g
@@ -6186,7 +6186,7 @@
       </g>
       <g
          id="g1832"
-         transform="matrix(2.2094763,0,0,2.2094763,1680.4779,-5041.3379)">
+         transform="matrix(2.2094763,0,0,2.2094763,1665.4779,-5156.3379)">
         <path
            style="fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.85066664;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path5484-0-62-0-2-7-7-0-1"

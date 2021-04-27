@@ -14,11 +14,11 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1856"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="favicon.svg"
    inkscape:export-filename="/home/calle/Storage/pelican/exploring_microbes/content/images/favicon.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs1850" />
   <sodipodi:namedview
@@ -29,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-195.71429"
+     inkscape:cx="-744.28572"
      inkscape:cy="-1497.1429"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1853">
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,71 +66,71 @@
     <g
        id="g5850"
        transform="matrix(0.14583333,0,0,0.14583333,-172.32173,641.82163)"
-       style="fill:#b3b3b3">
+       style="fill:#4d4d4d;fill-opacity:1">
       <g
          id="g5804"
-         style="fill:#b3b3b3">
+         style="fill:#4d4d4d;fill-opacity:1">
         <g
            id="g5806"
-           style="fill:#b3b3b3">
+           style="fill:#4d4d4d;fill-opacity:1">
           <path
              id="path5808"
              d="m 464.01104,406.87023 -111.315,-111.324 c -16.586,25.795 -38.536,47.734 -64.331,64.321 l 111.324,111.324 c 17.772,17.768 46.587,17.768 64.321,0 17.773,-17.739 17.773,-46.554 10e-4,-64.321 z"
              inkscape:connector-curvature="0"
-             style="fill:#b3b3b3" />
+             style="fill:#4d4d4d;fill-opacity:1" />
           <path
              id="path5810"
              d="M 363.909,181.955 C 363.909,81.473 282.44,0 181.956,0 81.474,0 0.001,81.473 0.001,181.955 c 0,100.482 81.473,181.951 181.955,181.951 100.484,0 181.953,-81.469 181.953,-181.951 z M 181.956,334.416 c -75.252,0 -152.464999,-77.208 -152.464999,-152.46 0,-75.252 77.212999,-152.464999 152.464999,-152.464999 75.25,0 152.468,77.212999 152.468,152.464999 0,75.252 -77.218,152.46 -152.468,152.46 z"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="ssssssssss"
-             style="fill:#b3b3b3" />
+             style="fill:#4d4d4d;fill-opacity:1" />
         </g>
       </g>
       <g
          id="g5814"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5816"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5818"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5820"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5822"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5824"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5826"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5828"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5830"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5832"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5834"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5836"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5838"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5840"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
       <g
          id="g5842"
-         style="fill:#b3b3b3" />
+         style="fill:#4d4d4d;fill-opacity:1" />
     </g>
     <path
        style="fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.44723478;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
