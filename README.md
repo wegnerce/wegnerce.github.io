@@ -1,4 +1,4 @@
-#README
+# README
 
 This repository houses my private webpage and is heavily built on:
 
