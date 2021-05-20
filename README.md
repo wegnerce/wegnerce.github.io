@@ -9,6 +9,6 @@ The used theme is:
 
 + [_pelican-bootstrap3_](https://github.com/farseerfc/pelican-bootstrap3)
 
-For customization I took a ot of inspiration from this blogpost:
+For customization I took a lot of inspiration from this blogpost:
 
 + [_Beneath data_](http://beneathdata.com/how-to/how-i-built-this-website/)
