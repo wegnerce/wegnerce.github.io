@@ -1,0 +1,27 @@
+html {
+  font-size: 18px;
+}
+
+.navbar {
+   background-image: url('pattern_nav2.png');
+   background-repeat: repeat;
+}
+
+.nav a{
+    font-size: 1.8em !important;
+    }
+.nav li{
+    padding-right:5px;
+   }
+
+.navbar-default .navbar-nav>.active> a, 
+.navbar-default .navbar-nav>.active> a:focus, 
+.navbar-default .navbar-nav>.active> a:hover {
+   background-color: rgba(0,0,0,0);
+   font-size: 2rem;font-weight: 400;
+}
+
+.well {
+    background-color: #e6e6e6 !important;
+}
+
