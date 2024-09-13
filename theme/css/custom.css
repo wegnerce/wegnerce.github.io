@@ -1,27 +1,43 @@
-html {
-  font-size: 18px;
-}
-
 .navbar {
-   background-image: url('pattern_nav2.png');
+   background-image: url('images/pattern_nav2.png');
    background-repeat: repeat;
-}
-
-.nav a{
-    font-size: 1.8em !important;
-    }
-.nav li{
-    padding-right:5px;
-   }
-
+   font-weight: bold;
+   font-size: medium;
+ }
 .navbar-default .navbar-nav>.active> a, 
 .navbar-default .navbar-nav>.active> a:focus, 
 .navbar-default .navbar-nav>.active> a:hover {
    background-color: rgba(0,0,0,0);
-   font-size: 2rem;font-weight: 400;
+   font-size: 1rem;font-weight: 400;
 }
 
 .well {
     background-color: #e6e6e6 !important;
 }
 
+body {font-size: 28pt;}
+
+ .navbar {
+  min-height: 55px;
+}
+
+.navbar-brand {
+  padding: 1 5px;
+  height: 45px;
+  line-height: 45px;
+}
+
+.navbar-toggle {
+  /* (80px - button height 34px) / 2 = 23px */
+  margin-top: 15px;
+  padding: 15px 15px !important;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav > li > a {
+    /* (80px - line-height of 27px) / 2 = 26.5px */
+    padding-top: 26px;
+    padding-bottom: 22px;
+    line-height: 55px;
+  }
+}
