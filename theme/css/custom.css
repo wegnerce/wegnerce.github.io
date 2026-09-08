@@ -4,11 +4,29 @@
    font-weight: bold;
    font-size: medium;
  }
-.navbar-default .navbar-nav>.active> a, 
-.navbar-default .navbar-nav>.active> a:focus, 
+.navbar-default .navbar-nav>.active> a,
+.navbar-default .navbar-nav>.active> a:focus,
 .navbar-default .navbar-nav>.active> a:hover {
    background-color: rgba(0,0,0,0);
    font-size: 1rem;font-weight: 400;
+}
+
+.navbar a:focus,
+.navbar a:active {
+    outline: none;
+}
+
+.__dimensions_badge_embed__,
+.__dimensions_Badge,
+.altmetric-embed,
+.altmetric-embed a {
+    vertical-align: middle;
+}
+
+/* Altmetric script injects display:block on the img, which shifts baseline to bottom */
+.altmetric-embed img {
+    display: inline-block !important;
+    vertical-align: middle;
 }
 
 .well {
